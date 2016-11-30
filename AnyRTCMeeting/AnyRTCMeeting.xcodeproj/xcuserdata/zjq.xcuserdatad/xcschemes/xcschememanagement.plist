@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>AnyRTCMeeting.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>0</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>784EF8071DEB082C00BFA8F7</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>784EF8201DEB082C00BFA8F7</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>784EF82B1DEB082C00BFA8F7</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>
